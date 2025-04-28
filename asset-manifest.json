@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/HomeworkMassanger/static/css/main.6063cab7.css",
+    "main.js": "/HomeworkMassanger/static/js/main.915cda59.js",
+    "static/js/787.66cb4309.chunk.js": "/HomeworkMassanger/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/HomeworkMassanger/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/HomeworkMassanger/index.html",
+    "main.6063cab7.css.map": "/HomeworkMassanger/static/css/main.6063cab7.css.map",
+    "main.915cda59.js.map": "/HomeworkMassanger/static/js/main.915cda59.js.map",
+    "787.66cb4309.chunk.js.map": "/HomeworkMassanger/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6063cab7.css",
+    "static/js/main.915cda59.js"
+  ]
+}
