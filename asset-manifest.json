@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/HomeworkMassanger/static/css/main.2c478c31.css",
-    "main.js": "/HomeworkMassanger/static/js/main.66803485.js",
+    "main.js": "/HomeworkMassanger/static/js/main.8bc41044.js",
     "static/js/787.66cb4309.chunk.js": "/HomeworkMassanger/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/HomeworkMassanger/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/200.svg": "/HomeworkMassanger/static/media/200.96248f7df0dde10e0a82ac30418f50bc.svg",
@@ -15,11 +15,11 @@
     "index.html": "/HomeworkMassanger/index.html",
     "static/media/burger.svg": "/HomeworkMassanger/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
     "main.2c478c31.css.map": "/HomeworkMassanger/static/css/main.2c478c31.css.map",
-    "main.66803485.js.map": "/HomeworkMassanger/static/js/main.66803485.js.map",
+    "main.8bc41044.js.map": "/HomeworkMassanger/static/js/main.8bc41044.js.map",
     "787.66cb4309.chunk.js.map": "/HomeworkMassanger/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2c478c31.css",
-    "static/js/main.66803485.js"
+    "static/js/main.8bc41044.js"
   ]
 }
